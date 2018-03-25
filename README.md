@@ -1,6 +1,6 @@
-# VCS WEB kûrimo vakariniai mokymai (I dalis)
+# VCS WEB kÅ«rimo vakariniai mokymai (I dalis)
 
-## Programinës árangos pasiruoğimas
+## PrograminÄ—s Ä¯rangos pasiruoÅ¡imas
 
 * Kodo redaktoriai: Atom, Sublime, Notepad++ ar kt.
 * Tik Windows naudotojams: [GitBash](https://git-for-windows.github.io/) arba [cmder](http://cmder.net/)
@@ -12,14 +12,14 @@
 ### Balandis
 * 3, 5, 6, 9, 10, 12, 13, 16, 19, 20
 
-## Savarankiğkos uşduotys
+## SavarankiÅ¡kos uÅ¾duotys
 
-* Paprastos: paskaitos metu kartu su lektoriumi atliktø uşduoèiø patobulinimai.
-* Namø darbai: Ğiø uşduoèiø turësite daugiausiai, nuo paprasèiausiø skirtø elementarioms ágytoms şinioms uştvirtinti iki sudëtingø kompleksiniø uşduoèiø.
-* Projektas: I projekto etapas yra iğsigryninti idëjà, schematiğkai nusibraişyti idëjà popieriaus lape, sukurti idëjos dizainà - veikiantèià statinæ svetainæ. Ğis etapas skirtas kaip pasiruoğimas antràjam etapui.
+* Paprastos: paskaitos metu kartu su lektoriumi atliktÅ³ uÅ¾duoÄiÅ³ patobulinimai.
+* NamÅ³ darbai: Å¡iÅ³ uÅ¾duoÄiÅ³ turÄ—site daugiausiai, nuo paprasÄiausiÅ³ skirtÅ³ elementarioms Ä¯gytoms Å¾inioms uÅ¾tvirtinti iki sudÄ—tingÅ³ kompleksiniÅ³ uÅ¾duoÄiÅ³.
+* Projektas: I projekto etapas yra iÅ¡sigryninti idÄ—jÄ…, schematiÅ¡kai nusibraiÅ¾yti idÄ—jÄ… popieriaus lape, sukurti idÄ—jos dizainÄ… - veikianÄiÄ… statinÄ™ svetainÄ™. Å is etapas skirtas kaip pasiruoÅ¡imas antrÄ…jam etapui.
 
 ## Vertinimas
 
-* Vertinimà sudaro 2 balai. 
-** Vienas balas skiriamas uş motyvacijà ir norà mokytis. Vertinama kaip studentas aktyviai dalyvauja paskaitø metu ir po paskaitø kitomis komunikacijomis priemonëmis. Kaip stengiasi ir kiek laiko skiria namø darbams.
-** Antras balas skiriamas uş paşangà, savarankiğkumà, tvarkingà kodo rağymà, ágytas ir pritaikytas şinias.
+* VertinimÄ… sudaro 2 balai. 
+** Vienas balas skiriamas uÅ¾ motyvacijÄ… ir norÄ… mokytis. Vertinama kaip studentas aktyviai dalyvauja paskaitÅ³ metu ir po paskaitÅ³ kitomis komunikacijomis priemonÄ—mis (skype, messanger ar kt). Kaip stengiasi ir kiek laiko skiria namÅ³ darbams.
+** Antras balas skiriamas uÅ¾ paÅ¾angÄ…, savarankiÅ¡kumÄ…, tvarkingÄ… kodo raÅ¡ymÄ…, Ä¯gytas ir pritaikytas Å¾inias.
