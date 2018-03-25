@@ -7,9 +7,9 @@
 
 ## Kurso I-ojo etapo kalendorius
 
-### Kovas (29, 30)
-### Balandis (3, 5, 6, 9, 10, 12, 13, 16, 17, 19)
-### Laisvos dienos trečiadieniais
+* Kovas (29, 30)
+* Balandis (3, 5, 6, 9, 10, 12, 13, 16, 17, 19)
+* Laisvos dienos trečiadieniais
 
 
 ## Savarankiškos užduotys
