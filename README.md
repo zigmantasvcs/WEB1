@@ -7,10 +7,10 @@
 
 ## Kurso I-ojo etapo kalendorius
 
-### Kovas
-* 29, 30
-### Balandis
-* 3, 5, 6, 9, 10, 12, 13, 16, 19, 20
+### Kovas (29, 30)
+### Balandis (3, 5, 6, 9, 10, 12, 13, 16, 17, 19)
+### Laisvos dienos trečiadieniais
+
 
 ## Savarankiškos užduotys
 
@@ -20,6 +20,6 @@
 
 ## Vertinimas
 
-* Vertinimą sudaro 2 balai. 
-** Vienas balas skiriamas už motyvaciją ir norą mokytis. Vertinama kaip studentas aktyviai dalyvauja paskaitų metu ir po paskaitų kitomis komunikacijomis priemonėmis (skype, messanger ar kt). Kaip stengiasi ir kiek laiko skiria namų darbams.
-** Antras balas skiriamas už pažangą, savarankiškumą, tvarkingą kodo rašymą, įgytas ir pritaikytas žinias.
+Vertinimą sudaro 2 balai. 
+* Vienas balas skiriamas už motyvaciją ir norą mokytis. Vertinama kaip studentas aktyviai dalyvauja paskaitų metu ir po paskaitų kitomis komunikacijomis priemonėmis (skype, messanger ar kt). Kaip stengiasi ir kiek laiko skiria namų darbams.
+* Antras balas skiriamas už pažangą, savarankiškumą, tvarkingą kodo rašymą, įgytas ir pritaikytas žinias.
